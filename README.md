@@ -19,25 +19,25 @@
 <b>
 
 <b>6.1 Halaman Utama:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/01.%20Tampil.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/01.%20Tampil.PNG)
 
 <b>6.2 Tambah:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/02.%20Tambah.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/02.%20Tambah.PNG)
 
 <b>6.3 Input:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/03.%20Input.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/03.%20Input.PNG)
 
 <b>6.4 Pop UP Tambah:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/04.%20PopUP.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/04.%20PopUP.PNG)
 
 <b>6.5 Edit:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/05.%20Edit.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/05.%20Edit.PNG)
 
 <b>6.6 Poop UP Edit:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/06.%20PoopUPEdit.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/06.%20PoopUPEdit.PNG)
 
 <b>6.7 Hapus:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/07.%20Hapus.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/07.%20Hapus.PNG)
 
 <b>6.8 Poop Up Hapus:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/08.%20PoopUPHapus.PNG)
+![Demo 1](https://raw.githubusercontent.com/iipshoifuddin/JawabanBacth13K2/master/Soalno6/ScreenShoot/08.%20PoopUPHapus.PNG)
